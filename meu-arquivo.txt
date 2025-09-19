@@ -1,1 +1,2 @@
 hoje vou fazer uma aula de subir repositorio
+leo me ensinou a fazer o git config
